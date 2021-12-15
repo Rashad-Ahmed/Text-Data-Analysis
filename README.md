@@ -4,7 +4,7 @@ One of the applications of text mining is sentiment analysis. Most of the data i
 
 The main focus of this article will be performing 
 
-1.Sentiment Analysis on comments of the video. The range of polarity is from -1 to 1(negative to positive) and will tell us if the text contains <t> positive or negative feedback. <br />
+1.Sentiment Analysis on comments of the video. The range of polarity is from -1 to 1(negative to positive) and will tell us if the text contains   positive or negative feedback. <br />
 2.EDA on Positive and Negative Comments.<br />
 3.Analysis to find tags which are found in Trending videos.<br />
 4.Analyzing Likes, Views and Dislikes column to find how they are co-related with each other.
